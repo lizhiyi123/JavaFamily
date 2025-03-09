@@ -1,4 +1,5 @@
 
+
 我会从下图中的知识点去写这个系列，很多细节的点，可能想得不是很完善，大家可以去[【公众号】](#公众号)获取或者加我[【微信】](#微信)提意见(别忘记**Star**哟)。
 
 原创文章每周最少两篇，公众号首发文章，[【B站】](https://space.bilibili.com/130763764)首发视频，比博客早一到两篇。
@@ -135,6 +136,7 @@
   - [数据库性能调优](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/db/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98.md)
   - [分库分表](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/db/%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8.md)
   - [数据库面试题](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/db/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+  - [OceanBase 4.3 发版｜实时分析 AP 的里程碑版本](https://github.com/oceanbase)
 
 - 大数据
   -  [大数据体系](https://mp.weixin.qq.com/s/7rW9eHxdRXtWJExVupcZZQ)
@@ -221,6 +223,10 @@
 
   
 - [人物&杂谈](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E4%BA%BA%E7%89%A9%26%E6%9D%82%E8%B0%88.md)  
+
+
+
+- [AI工具](https://juejin.cn/post/7389069052436217896#comment)
 
 
 
